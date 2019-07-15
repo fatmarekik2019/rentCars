@@ -45,13 +45,13 @@
                                 <li>Item1</li>
                                 <li>Item2</li>
                                 <li>Item3</li>
-                                <li>Item4</li>
+                                <li>Item4 </li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3">
                         <div class="select select-3">
-                            <span class="">Any price</span>
+                            <span class="">Any price </span>
                             <ul class="list">
                                 <li>Any price</li>
                                 <li>Item1</li>
